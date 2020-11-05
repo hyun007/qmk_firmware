@@ -15,5 +15,5 @@
  */
 
 #pragma once
-#define ACTUATION_DEPTH_ADJUSTMENT 3
+#define ACTUATION_DEPTH_ADJUSTMENT 5
 // place overrides here
