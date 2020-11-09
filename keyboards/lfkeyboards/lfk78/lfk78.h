@@ -6,6 +6,8 @@
 #    include "revb.h"
 #elif defined(KEYBOARD_lfkeyboards_lfk78_revc)
 #    include "revc.h"
+#elif defined(KEYBOARD_lfkeyboards_lfk78_revc1)
+#    include "revc1.h"
 #elif defined(KEYBOARD_lfkeyboards_lfk78_revj)
 #    include "revj.h"
 #endif
